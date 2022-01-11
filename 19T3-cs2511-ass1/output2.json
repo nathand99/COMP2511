@@ -1,0 +1,52 @@
+{
+  "venue": "mars",
+  "rooms": ["landing site"],
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}
+{
+  "venue": "mars",
+  "rooms": ["landing site"],
+  "status": "success"
+}
+{
+  "venue": "mars",
+  "rooms": ["landing site"],
+  "status": "success"
+}
+[{
+  "reservations": [
+    {
+      "start": "2019-03-27",
+      "end": "2019-03-29",
+      "id": "elon musk"
+    },
+    {
+      "start": "2019-10-20",
+      "end": "2019-10-25",
+      "id": "alex mason"
+    }
+  ],
+  "room": "landing site"
+}]
+[{
+  "reservations": [{
+    "start": "2019-03-27",
+    "end": "2019-03-29",
+    "id": "elon musk"
+  }],
+  "room": "landing site"
+}]
+[{
+  "reservations": [],
+  "room": "landing site"
+}]
+

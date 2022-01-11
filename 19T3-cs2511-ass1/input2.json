@@ -1,0 +1,29 @@
+{ "command": "room", "venue": "mars", "room": "landing site", "size": "small" }
+
+{ "command": "request", "id": "elon musk", "start": "2019-10-20", "end": "2019-10-25", "small": 1, "medium": 0, "large": 0 }
+
+{ "command": "request", "id": "jeff bezos", "start": "2019-10-20", "end": "2019-10-25", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "bill gates", "start": "2019-10-20", "end": "2019-10-25", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "barack obama", "start": "2019-10-20", "end": "2019-10-25", "small": 0, "medium": 0, "large": 1 }
+
+{ "command": "request", "id": "bill nye", "start": "2019-10-15", "end": "2019-10-20", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "elon busk", "start": "2019-10-25", "end": "2019-10-27", "small": 1, "medium": 0, "large": 0 }
+
+{ "command": "request", "id": "kevin 07", "start": "2019-10-18", "end": "2019-10-21", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "phony tony rabbit", "start": "2019-10-24", "end": "2019-10-30", "small": 1, "medium": 0, "large": 0 }
+
+{ "command": "request", "id": "kalashnikov", "start": "2019-10-15", "end": "2019-10-30", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "makarov", "start": "2019-10-21", "end": "2019-10-24", "small": 1, "medium": 0, "large": 0 }
+
+{ "command": "change", "id": "elon musk", "start": "2019-03-27", "end": "2019-03-29", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "alex mason", "start": "2019-10-20", "end": "2019-10-25", "small": 1, "medium": 0, "large": 0 }
+
+{ "command": "list", "venue": "mars" }
+
+{ "command": "cancel", "id": "alex mason" }
+
+{ "command": "list", "venue": "mars" }
+
+{ "command": "cancel", "id": "elon musk" }
+
+{ "command": "list", "venue": "mars" }

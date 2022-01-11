@@ -1,0 +1,28 @@
+{ "command": "room", "venue": "westfield", "room": "rooftop", "size": "large" }
+{ "command": "room", "venue": "westfield", "room": "cinemas", "size": "medium" }
+{ "command": "room", "venue": "westfield", "room": "rebel sport", "size": "medium" }
+{ "command": "room", "venue": "westfield", "room": "coles", "size": "medium" }
+{ "command": "room", "venue": "westfield", "room": "cool vibes", "size": "small" }
+
+{ "command": "request", "id": "bandit", "start": "2019-12-13", "end": "2019-12-17", "small": 1, "medium": 2, "large": 0 }
+
+{ "command": "request", "id": "glaz", "start": "2019-12-13", "end": "2019-12-17", "small": 0, "medium": 2, "large": 0 }
+
+{ "command": "request", "id": "jackal", "start": "2019-12-13", "end": "2019-12-17", "small": 0, "medium": 1, "large": 0 }
+
+{ "command": "request", "id": "blitz", "start": "2019-12-13", "end": "2019-12-17", "small": 0, "medium": 0, "large": 1 }
+
+{ "command": "request", "id": "jaeger", "start": "2019-12-20", "end": "2019-12-30", "small": 1, "medium": 3, "large": 1 }
+
+{ "command": "request", "id": "buck", "start": "2019-12-31", "end": "2019-12-31", "small": 1, "medium": 3, "large": 1 }
+
+{ "command": "list", "venue": "westfield" }
+
+{ "command": "request", "id": "smoke", "start": "2019-12-13", "end": "2019-12-17", "small": 0, "medium": 1, "large": 0 }
+
+{ "command": "cancel", "id": "jackal" }
+
+{ "command": "request", "id": "smoke", "start": "2019-12-13", "end": "2019-12-17", "small": 0, "medium": 1, "large": 0 }
+
+{ "command": "list", "venue": "westfield" }
+

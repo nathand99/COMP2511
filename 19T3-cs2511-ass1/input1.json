@@ -1,0 +1,18 @@
+{ "command": "room", "venue": "kitchen", "room": "knife", "size": "small" }
+{ "command": "room", "venue": "kitchen", "room": "fork", "size": "medium" }
+{ "command": "room", "venue": "kitchen", "room": "spoon", "size": "large" }
+{ "command": "room", "venue": "kitchen", "room": "chopsticks", "size": "small" }
+{ "command": "room", "venue": "garden", "room": "hose", "size": "small" }
+{ "command": "room", "venue": "garden", "room": "axe", "size": "small" }
+{ "command": "room", "venue": "garden", "room": "pliers", "size": "large" }
+
+{ "command": "request", "id": "lunch", "start": "2019-10-10", "end": "2019-10-12", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "dinner", "start": "2019-10-10", "end": "2019-10-12", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "intothegarden", "start": "2019-10-10", "end": "2019-10-12", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "logging", "start": "2019-10-10", "end": "2019-10-12", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "nomorespace", "start": "2019-10-10", "end": "2019-10-12", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "large convention", "start": "2019-10-10", "end": "2019-10-12", "small": 0, "medium": 0, "large": 1 }
+{ "command": "request", "id": "fullsmall", "start": "2019-10-09", "end": "2019-10-12", "small": 1, "medium": 0, "large": 0 }
+{ "command": "request", "id": "fullmedium", "start": "2019-10-10", "end": "2019-10-13", "small": 0, "medium": 1, "large": 0 }
+{ "command": "request", "id": "fulllarge", "start": "2019-10-09", "end": "2019-10-13", "small": 0, "medium": 0, "large": 1 }
+

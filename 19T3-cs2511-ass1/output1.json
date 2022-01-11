@@ -1,0 +1,33 @@
+{
+  "venue": "kitchen",
+  "rooms": [
+    "knife",
+    "fork",
+    "spoon"
+  ],
+  "status": "success"
+}
+{
+  "venue": "kitchen",
+  "rooms": ["chopsticks"],
+  "status": "success"
+}
+{
+  "venue": "garden",
+  "rooms": ["hose"],
+  "status": "success"
+}
+{
+  "venue": "garden",
+  "rooms": ["axe"],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "garden",
+  "rooms": ["pliers"],
+  "status": "success"
+}
+{"status": "rejected"}
+{"status": "rejected"}
+{"status": "rejected"}

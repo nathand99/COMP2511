@@ -1,0 +1,252 @@
+{
+  "venue": "westfield",
+  "rooms": [
+    "cinemas",
+    "rebel sport",
+    "cool vibes"
+  ],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "westfield",
+  "rooms": ["coles"],
+  "status": "success"
+}
+{
+  "venue": "westfield",
+  "rooms": ["rooftop"],
+  "status": "success"
+}
+{
+  "venue": "westfield",
+  "rooms": [
+    "rooftop",
+    "cinemas",
+    "rebel sport",
+    "coles",
+    "cool vibes"
+  ],
+  "status": "success"
+}
+{
+  "venue": "westfield",
+  "rooms": [
+    "rooftop",
+    "cinemas",
+    "rebel sport",
+    "coles",
+    "cool vibes"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "blitz"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "rooftop"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "bandit"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "cinemas"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "bandit"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "rebel sport"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "jackal"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "coles"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "bandit"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "cool vibes"
+  }
+]
+{"status": "rejected"}
+{
+  "venue": "westfield",
+  "rooms": ["coles"],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "blitz"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "rooftop"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "bandit"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "cinemas"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "bandit"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "rebel sport"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "smoke"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "coles"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-12-13",
+        "end": "2019-12-17",
+        "id": "bandit"
+      },
+      {
+        "start": "2019-12-20",
+        "end": "2019-12-30",
+        "id": "jaeger"
+      },
+      {
+        "start": "2019-12-31",
+        "end": "2019-12-31",
+        "id": "buck"
+      }
+    ],
+    "room": "cool vibes"
+  }
+]
