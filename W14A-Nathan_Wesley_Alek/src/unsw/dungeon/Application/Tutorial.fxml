@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="454.0" prefWidth="666.0" xmlns="http://javafx.com/javafx/11.0.4" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label layoutX="241.0" layoutY="14.0" text="How to Play">
+         <font>
+            <Font size="31.0" />
+         </font>
+      </Label>
+      <Label layoutX="200.0" layoutY="107.0" text="Arrow Keys - Move the Player">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="195.0" layoutY="163.0" text="WASD - Attack in the Direction">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="164.0" layoutY="217.0" text="Avoid the Enemies! They will kill you.">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="67.0" layoutY="273.0" text="You will automatically pick items up if you walk over them.">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label layoutX="148.0" layoutY="328.0" text="The objective is to finish the Goal to win!">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Button fx:id="backButton" layoutX="185.0" layoutY="379.0" mnemonicParsing="false" onAction="#goToMenu" text="Good Luck, Space Cowboy...">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>
