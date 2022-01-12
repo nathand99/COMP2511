@@ -63,10 +63,14 @@ public class StaffMember {
 	}
 	
 	// overriding equals method
+	// checking whether the current object (this) is the same as obj passed in?
 	@Override
 	public boolean equals(Object obj) {
+		if (obj == this) return true;
 		if (obj == null) return false;
 		if (this.getClass() != obj.getClass()) return false;
+		// obj must be the same class as (this) - cast it (we give a new name A)
+		// check all variables are the same
 		StaffMember A = (StaffMember) obj;
 		if (this.name.equals(A.name) &&
 			this.salary == A.salary &&
@@ -79,6 +83,7 @@ public class StaffMember {
 	}
 	
 	// overriding toString method
+	// if not overidden, then it just prints the memory location
 	@Override
 	public String toString() {
 		String message = "Name: " + this.name + "\n" + "Salary: " + this.salary + "\n" + "Hire Date: " + this.hire_date + "\n" + "End Date: " + this.end_date + "\n";

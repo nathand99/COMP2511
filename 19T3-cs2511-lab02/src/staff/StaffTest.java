@@ -27,6 +27,7 @@ public class StaffTest {
 		System.out.println("testing staff member");
 		// true		
 		System.out.println("1. " + staff1.equals(staff1)); // reflexive
+		System.out.println(staff1 == staff2); // false since they do not point to the same object
 		System.out.println("2. " + staff1.equals(staff2)); // symmetric
 		System.out.println("3. " + staff2.equals(staff1));
 		System.out.println("4. " + staff2.equals(staff3)); // transitive
