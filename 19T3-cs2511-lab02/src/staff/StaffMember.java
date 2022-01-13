@@ -68,7 +68,7 @@ public class StaffMember {
 	public boolean equals(Object obj) {
 		if (obj == this) return true;
 		if (obj == null) return false;
-		if (this.getClass() != obj.getClass()) return false;
+		if (this.getClass() != obj.getClass()) return false; // could also use instanceof
 		// obj must be the same class as (this) - cast it (we give a new name A)
 		// check all variables are the same
 		StaffMember A = (StaffMember) obj;
